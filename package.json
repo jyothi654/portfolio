@@ -1,0 +1,27 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "start": "serve ."
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jyothi654/portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jyothi654/portfolio/issues"
+  },
+  "homepage": "https://github.com/jyothi654/portfolio#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "react": "^19.1.0"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
